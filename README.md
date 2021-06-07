@@ -1,1 +1,1 @@
-# envoy-wasm-learning
+# wasm-extensions-learning
